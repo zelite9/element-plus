@@ -1,5 +1,5 @@
 <template>
-  <el-descriptions title="User Info">
+  <el-descriptions title="User Info" :column="2">
     <el-descriptions-item label="Username">kooriookami</el-descriptions-item>
     <el-descriptions-item label="Telephone">18100000000</el-descriptions-item>
     <el-descriptions-item label="Place">Suzhou</el-descriptions-item>
